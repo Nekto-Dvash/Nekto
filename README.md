@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./images/lain.jpg" width="100%" />
+  <img src="./images/Lain.png" width="100%" />
 </div>
